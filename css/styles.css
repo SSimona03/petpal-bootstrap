@@ -197,11 +197,12 @@ p{
         position: static;
         transform: rotate(0);
         width: 40%;
+        display: block;
+        margin: 0 auto;
     }
-
-    #textalingleft{
-        text-align: center;
-    }    
+.headingAll{
+    text-align: center;
+}
 
     #footer {
         padding: 4% 4%;
@@ -218,6 +219,8 @@ p{
 
     .dogimage{
         top:25%;
+        display: block;
+        margin: 0 auto;
     }
 
     .carousel-item{
